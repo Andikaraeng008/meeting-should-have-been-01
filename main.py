@@ -7,7 +7,7 @@ the meeting's only decision was to produce the very email it replaced.
 
 from pathlib import Path
 
-LINE = "The meeting's only decision was to send an email summarising the meeting that should have been an email."
+LINE = "The agenda had twelve items, the meeting lasted two hours, and the only thing we actually finished was the coffee — which, unlike the meeting, had a point."
 
 
 def main() -> None:
