@@ -8,7 +8,7 @@ the meeting's only decision was to produce the very email it replaced.
 import os
 from pathlib import Path
 
-LINE = "The agenda had twelve items, the meeting lasted two hours, and the only thing we actually finished was the coffee — which, unlike the meeting, had a point."
+LINE = "The manager said 'let's take this offline,' so we all went offline — and the meeting kept going for another hour without us."
 
 
 def main() -> None:
